@@ -12,6 +12,7 @@ An insight of already designed/developed cloud infrastructures.
 
 ## Leibniz Computing Center (LRZ) - AI Systems
 <img src="images\LRZ-AISystems.png" width="500" />
+<img src="images\workflow.png" width="500" />
 
 ## Microsoft Azure - Data Pipelines
 <img src="images\Azure-DataLake.png" width="500" />
