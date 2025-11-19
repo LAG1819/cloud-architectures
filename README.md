@@ -7,5 +7,8 @@ An insight of already designed/developed cloud infrastructures.
 ## Amazon Web Services (AWS) - ML Platform
 <img src="images\AWS-AIPlatform.png" width="500" />
 
-## Google Cloud Platform - ML Stream
+## Google Cloud Platform (GCP) - ML Stream
 <img src="images\GCP-AIStream.png" width="500" />
+
+## Leibniz Computing Center (LRZ) - AI Systems
+<img src="images\LRZ-AISystems.png" width="500" />
